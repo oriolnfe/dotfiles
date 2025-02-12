@@ -12,3 +12,6 @@ setxkbmap es &
 
 # wallpaper
 nitrogen --restore &
+
+# nextcloud
+nextcloud &
